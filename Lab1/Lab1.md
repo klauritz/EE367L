@@ -2,6 +2,8 @@
 
 This page can be viewed by going to https://bit.ly/2sky3Yc
 
+Lab Hours: Thursdays 2:30PM - 4:30PM
+
 Individual Assignment
 
 Due January 10th, at 8:00PM
