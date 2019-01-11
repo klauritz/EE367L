@@ -4,7 +4,7 @@ This page can be viewed by going to https://bit.ly/2sky3Yc
 
 Individual Assignment
 
-Due Next Week Thursday at **12:00PM**
+Due January 10th, at 8:00PM
 
 Make sure you've done the following before proceeeding:
  - Set up/get access to your wiliki account
