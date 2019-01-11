@@ -1,4 +1,6 @@
 # Lab 1: Introduction and UNIX Basics
+
+This page can be viewed by going to https://bit.ly/2sky3Yc
 Individual Assignment
 
 Due Next Week Thursday at **12:00PM**
